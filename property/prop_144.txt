@@ -1,0 +1,1 @@
+Strength,Dexterity,Endurance,Intelligence,Education,Social Standing,Morale,Luck,Sanity,Charm,Willpower,Psionics

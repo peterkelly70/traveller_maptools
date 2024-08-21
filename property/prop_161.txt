@@ -1,0 +1,1 @@
+{"Broken Arm":["-2 Melee, -2 Ranged","2 weeks",8],"Broken Leg":["-2 Movement, -4 Dodging","3 weeks",8],"Concussion":["-2 Intelligence, -2 Dexterity","1 week",6],"Fractured Ribs":["-1 Endurance, -1 Melee","2 weeks",7],"Sprained Ankle":["-1 Movement, -1 Dodging","1 week",5]}

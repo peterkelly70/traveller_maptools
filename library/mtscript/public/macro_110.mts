@@ -1,0 +1,6 @@
+[h: debug("<pre>Start Say</pre>")]
+[h: callerID = currentToken()]
+[h: tokenName = getName(callerID)]
+[h: debug("<pre>" + json.indent(getDefinedFunctions("json", 1)) +"</pre>")]
+[h: say(callerID, "This is a test message from "+tokenName+".")]
+[h: popup(callerID, "This is a test message from "+tokenName+".")]

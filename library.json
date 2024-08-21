@@ -1,0 +1,19 @@
+{
+  "name": "lib:Traveller",
+  "version": "0.5",
+  "website": "",
+  "gitUrl": "https://github.com/peterkelly70/traveller_maptools",
+  "authors": ["Peter Kelly"],
+  "license": "GPL-3.0",
+  "namespace": "computer-wizard.com.au.traveller",
+  "description": "Mongoose 2nd ED Traveller Campaign",
+  "shortDescription": "Mongoose 2nd ED Traveller Campaign",
+  "allowsUriAccess": true,
+  "licenseFile": "LICENSE.MD",
+  "readMeFile": "README.MD",
+  "dependencies": {
+    "MapToolVersion": "1.14.3"
+  },
+  "contact": "peter@computer-wizard.com.au",
+  "keywords": ["Traveller", "MapTool", "RPG", "Mongoose"]
+}

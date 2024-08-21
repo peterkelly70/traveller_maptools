@@ -1,0 +1,13 @@
+{
+  "events": [{
+    "name": "onCampaignLoad",
+    "mts": "onCampaignLoad"
+  }],
+  "legacyEvents": [{
+    "name": "onInitiativeChange",
+    "mts": "onInitiativeChange"
+  }, {
+    "name": "onChangeMap",
+    "mts": "onChangeMap"
+  }]
+}

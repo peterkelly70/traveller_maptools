@@ -1,0 +1,5 @@
+[h:tab="Combat"]
+[h:callerID = currentToken()]
+[h: args = json.append("[]",callerID,tab)]
+[macro("AdminSheet@Lib:Traveller"): args]
+[abort(0)]

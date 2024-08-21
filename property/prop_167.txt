@@ -1,0 +1,1 @@
+{"Stim Packs":["8","0.2","100","12","Hits:+2"],"Autogun":["10","1","100","10","30 Shot Mags"],"Laz Cells":["10","1","200","10","Energy Cell"]}
