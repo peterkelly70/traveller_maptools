@@ -1,0 +1,102 @@
+"Prisoners of the Void" Introduction: "Prisoners of the Void" is the first chapter in the Void Saga, introducing the players to life aboard the ancient prison ship, 
+the Void. This chapter serves as an introduction to the game mechanics, establishing the harsh, oppressive environment that the PCs must navigate. The chapter 
+culminates in an asteroid strike that leaves the ship in dire straits, setting the stage for the next chapter, "Escape from the Void."
+
+Scene 1: Morning Roll Call Narrative: The day begins with the grating blare of klaxons echoing through the metal corridors. The ship's AI, with its cold, mechanical 
+voice, announces the start of another day. The PCs are herded out of their cramped cells by guards, their every movement monitored by the Void's aging surveillance 
+systems. In the mess hall, they receive their meager rations—a tasteless, nutrient-rich paste—and are assigned their work details for the day. The atmosphere is 
+tense; some prisoners have been here for years, others just days, but all are united by their shared misery.
+
+Skill Checks:
+
+Recon (DC 6): A PC who succeeds on this check notices a brewing conflict among the prisoners or a guard taking an unusual interest in them. This information can be 
+used to avoid trouble or manipulate the situation to their advantage. Social Interaction: PCs may attempt to interact with other prisoners or guards. A Social (DC 6) 
+check could allow them to gain a minor ally or avoid unwanted attention. Scene 2: The Work Detail Narrative: The PCs are escorted to various parts of the ship for 
+their work detail. The Void is a massive vessel, and its ancient systems are prone to malfunction. Today, the PCs are tasked with repairing old machinery deep in the 
+bowels of the ship, clearing blockages in the waste disposal system, or mining asteroids in a nearby belt—each task more dangerous and degrading than the last. The 
+work is exhausting, and the constant supervision by guards leaves little room for error or slacking.
+
+Skill Checks:
+
+Mechanic (DC 8): Required to repair faulty equipment. A successful check results in the repair being completed without incident. Failure could mean the equipment 
+malfunctions, possibly causing injury or drawing the ire of the guards. Athletics (DC 8): Needed for hauling heavy materials or clearing blockages. Success allows 
+the PC to complete the task without incident, while failure results in fatigue or minor injury (1d6 damage). Electronics (DC 8): Used to interface with the ship's 
+outdated computer systems. A successful check might reveal hidden information about the ship or its systems, while failure could trigger an alarm or cause a system 
+failure. Random Event: During the work detail, there’s a chance that something goes wrong—an equipment malfunction, a fight among prisoners, or a guard crackdown. 
+Roll 1d6; on a 1-2, a random event occurs:
+
+Equipment Malfunction: A piece of machinery breaks down, requiring immediate repair. Another Mechanic (DC 8) check is needed to fix it, or it could cause a serious 
+accident. Prisoner Fight: Tensions boil over, and a fight breaks out. PCs must make a Dexterity (DC 6) check to avoid getting caught in the brawl or suffer 1d6 
+damage. Guard Crackdown: The guards decide to assert their authority, demanding all prisoners return to their cells early. Any resistance will result in a 
+confrontation. Scene 3: The Riot Narrative: The monotony and tension of the Void reach a breaking point. A dispute between prisoners in the mess hall erupts into 
+violence, quickly spiraling into a full-blown riot. The guards move in with stun batons and tear gas, while the PCs are caught in the middle. They must decide 
+whether to fight, flee, or find a way to use the chaos to their advantage.
+
+Skill Checks:
+
+Melee (DC 6) or Gun Combat (DC 8): If the PCs choose to engage in the fight, they can use these skills to defend themselves or take down guards. Success means they 
+hold their own, while failure might result in injury or capture. Stealth (DC 8): If the PCs try to slip away unnoticed, a successful check allows them to evade the 
+guards and find a safer location. Failure could mean they are spotted and pursued. Leadership (DC 8): A PC with strong leadership skills can attempt to rally other 
+prisoners, turning the tide of the riot or securing an escape route. Success means they gain temporary allies, while failure could backfire, leading to more chaos. 
+Consequences: Depending on their actions, the PCs might gain a temporary ally among the prisoners, earn the ire of the guards, or find themselves in solitary 
+confinement. If they manage to escape the riot unscathed, they might overhear guards discussing the increasing instability of the Void's systems.
+
+Scene 4: Lockdown Narrative: The riot is brutally suppressed, and the entire ship is placed on lockdown. The PCs are confined to their cells, the lights dimming to a 
+dull red as the AI enforces a curfew. The ship feels more oppressive than ever, with the distant sounds of guards patrolling and the groans of the ship's ancient 
+systems reverberating through the walls. The PCs have time to reflect on their situation, plan their next move, or simply try to survive the psychological toll of 
+solitary confinement.
+
+Skill Checks:
+
+Survival (DC 6): PCs can use this check to mentally prepare themselves for the harsh conditions of solitary confinement. Success allows them to maintain their 
+resolve, while failure might result in temporary penalties to social or physical tasks. Tactics (DC 8): The PCs can use this time to plan their next move, whether 
+it’s a bid for freedom, revenge on a rival prisoner, or gathering information. Success might give them an edge in future encounters, while failure could mean missed 
+opportunities. Scene 5: The Asteroid Strike Narrative: Just as the lockdown is lifted and the PCs are released from their cells, the Void is struck by an unexpected 
+asteroid shower. The ship shudders violently, alarms blare, and the lights flicker. Hull breaches occur in several sections, and the PCs must quickly react to avoid 
+immediate danger. The situation is chaotic, with debris flying and parts of the ship exposed to the vacuum of space.
+
+Skill Checks:
+
+Dexterity (DC 8): Each PC must make this check to avoid being hit by falling debris or sucked toward a breach in the hull. Failure results in 1d6 damage or a 
+temporary injury, such as a sprained ankle or concussion. Mechanic (DC 8) or Electronics (DC 8): The PCs can attempt to stabilize their section of the ship by 
+sealing breaches, rerouting power, or patching into the ship's emergency systems. Success helps mitigate the immediate danger, while failure could worsen the 
+situation or result in more severe consequences later. Cliffhanger Ending: The adventure ends as the PCs are left in the damaged ship, uncertain of what will come 
+next. The Void is severely compromised, and the PCs must prepare for the challenges ahead as they face the aftermath of the asteroid strike.
+
+NPCs Warden Dracos Role: The Warden of the Void. He is the authoritarian figure who rules over the prisoners with an iron fist. Dracos believes in harsh discipline 
+and has no sympathy for the prisoners under his watch. UPP: 8899A8 Skills: Leadership-2, Tactics-2, Gun Combat-1, Melee Combat-1, Persuade-2, Admin-1 Equipment: 
+Personal communicator, keycard to restricted areas, concealed stun pistol. Appearance: Tall, imposing figure with a severe expression. He wears a crisp uniform with 
+the insignia of his rank.
+
+Guard Captain Korvus Role: The head of security on the Void. Korvus is responsible for enforcing the Warden's rules and is known for his brutality. UPP: A99AA6 
+Skills: Melee Combat-2, Gun Combat-2, Intimidate-2, Athletics-1 Equipment: Stun baton, riot armor, taser, handcuffs. Appearance: Muscular, with a scarred face and a 
+permanent sneer. He often wears heavy armor and carries a stun baton.
+
+Prisoner "Rat" Role: A long-time prisoner who has survived by becoming an informant for the guards. He’s a scavenger, always on the lookout for ways to make his life 
+slightly better, even if it means betraying others. UPP: 588696 Skills: Deception-2, Streetwise-1, Stealth-2, Recon-1 Equipment: Makeshift knife, hidden stash of 
+contraband. Appearance: Small and wiry, with darting eyes and a nervous demeanor. He’s often seen lurking in the shadows.
+
+Prisoner "Brick" Role: A former enforcer for a criminal syndicate, now serving time on the Void. He is strong, tough, and respected (or feared) by many of the other 
+prisoners. UPP: B987A6 Skills: Melee Combat-3, Athletics-2, Intimidate-2 Equipment: Improvised weapon (pipe), protective vest. Appearance: Large imposing kind of a 
+man, he has prunced thiugihs forehaed and talks in lown growling voie, He snot smart, but he not dumb either. He likes to see fear in peopls eyes.
+
+Void Guard Role: Standard security personnel on the Void. These guards enforce order among the prisoners and are often brutal in their methods. UPP: 6788A6 Skills: 
+Melee Combat-1, Gun Combat-1, Athletics-1, Recon-1 Equipment: Stun baton, body armor, sidearm (stun pistol), communication device. Appearance: Average build, wearing 
+standard security armor with a visor helmet, always on edge and ready for trouble.
+
+Veteran Guard Role: More experienced security personnel, often leading small teams of guards during work details or in response to disturbances. UPP: 7899A7 Skills: 
+Melee Combat-2, Gun Combat-2, Leadership-1, Intimidate-1 Equipment: Stun baton, reinforced body armor, sidearm (stun pistol), taser. Appearance: Broad-shouldered, 
+with a stern expression and a no-nonsense attitude. Their armor bears marks of previous encounters.
+
+Low-Level Prisoner Role: One of the many prisoners aboard the Void, serving time for minor crimes or having crossed the wrong people. UPP: 477796 Skills: 
+Streetwise-1, Stealth-1, Athletics-1 Equipment: None (may have improvised items depending on the situation). Appearance: Gaunt, unkempt, dressed in the ragged 
+prisoner uniform, with a nervous demeanor.
+
+Hardened Prisoner Role: A more dangerous and experienced inmate, often involved in prison gangs or black-market dealings within the Void. UPP: 6887A7 Skills: Melee 
+Combat-2, Streetwise-2, Intimidate-1, Recon-1 Equipment: Improvised weapon (shank or pipe), contraband items. Appearance: Muscular and scarred, with a hardened, 
+defiant look. They carry themselves with confidence and have a menacing presence.
+
+Prison Gang Leader Role: Leader of a prison gang, controlling contraband trade, organizing resistance against the guards, or enforcing their own rule among the 
+prisoners. UPP: 7998B7 Skills: Leadership-2, Melee Combat-2, Deception-1, Streetwise-2 Equipment: Improvised weapon (bladed or blunt), contraband, stolen keycard. 
+Appearance: Intimidating and charismatic, with tattoos indicating their status, always flanked by loyal followers.
+

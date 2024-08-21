@@ -1,0 +1,45 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "Space3.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "Spaceship2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "spaceship.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "spaceship3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "spaceship4.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "/home/peter/Traveller/Campaign/tiles/TileMap_SF",
+    "map.height": 30,
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+    ],
+    "project": "void.tiled-project",
+    "recentFiles": [
+        "spaceship.tsx",
+        "spaceship4.tsx",
+        "spaceship3.tsx",
+        "Space3.tsx",
+        "Spaceship2.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
