@@ -1,35 +1,33 @@
 #!/bin/bash
 
-# Step 0: Ensure necessary commands are available
+# Ensure jq is available
 if ! command -v jq &> /dev/null; then
     echo "jq is required but not installed. Please install jq and try again."
     exit 1
 fi
 
-# Step 1: Set default variables and extract version from library.json
-LIBRARY_JSON="library.json"
+# Set up variables
+BASE_DIR=$(pwd)
+LIBRARY_JSON="${BASE_DIR}/library.json"
+
+# Check if library.json exists
 if [ ! -f "$LIBRARY_JSON" ]; then
-    echo "library.json not found in the current directory. Please ensure it exists."
+    echo "library.json not found in the base directory. Please ensure it exists."
     exit 1
 fi
 
+# Extract version from library.json and set the name for the .mtlib file
 VERSION=$(jq -r '.version' "$LIBRARY_JSON")
 LIBRARY_NAME="travellermg2_${VERSION}.mtlib"
-DIRECTORY_TO_ZIP=$(pwd)/your-library-name
 
-# Step 2: Ensure the correct directory structure
-if [ ! -d "$DIRECTORY_TO_ZIP/library" ]; then
-    echo "Directory structure is incorrect. Please ensure the library/ directory exists within $DIRECTORY_TO_ZIP"
-    exit 1
-fi
-
-# Step 3: Remove any existing .mtlib files in the directory
+# Remove any existing .mtlib files
 echo "Cleaning up old .mtlib files..."
-find "$(pwd)" -name "*.mtlib" -type f -delete
+find "$BASE_DIR" -name "*.mtlib" -type f -delete
 
-# Step 4: Zip the directory into a .mtlib file
+# Create the .mtlib file
 echo "Creating .mtlib file..."
-zip -r "$LIBRARY_NAME" "your-library-name" -x "*.mtlib" -x "*/.git/*"
+zip -r "$LIBRARY_NAME" . -x "*.git*" "*.mtlib" -i "library.json" "library/*" "property/*"
+
 if [ $? -eq 0 ]; then
   echo ".mtlib file created successfully: $LIBRARY_NAME"
 else
@@ -37,4 +35,4 @@ else
   exit 1
 fi
 
-echo "Local build complete: $LIBRARY_NAME"
+echo "Build complete: $LIBRARY_NAME"
