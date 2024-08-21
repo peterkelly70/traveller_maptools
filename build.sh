@@ -15,15 +15,21 @@ fi
 
 VERSION=$(jq -r '.version' "$LIBRARY_JSON")
 LIBRARY_NAME="travellermg2_${VERSION}.mtlib"
-DIRECTORY_TO_ZIP=$(pwd)
+DIRECTORY_TO_ZIP=$(pwd)/your-library-name
 
-# Step 2: Remove any existing .mtlib files in the directory
+# Step 2: Ensure the correct directory structure
+if [ ! -d "$DIRECTORY_TO_ZIP/library" ]; then
+    echo "Directory structure is incorrect. Please ensure the library/ directory exists within $DIRECTORY_TO_ZIP"
+    exit 1
+fi
+
+# Step 3: Remove any existing .mtlib files in the directory
 echo "Cleaning up old .mtlib files..."
-find "$DIRECTORY_TO_ZIP" -name "*.mtlib" -type f -delete
+find "$(pwd)" -name "*.mtlib" -type f -delete
 
-# Step 3: Zip the directory, excluding existing .mtlib files
+# Step 4: Zip the directory into a .mtlib file
 echo "Creating .mtlib file..."
-zip -r "$LIBRARY_NAME" "$DIRECTORY_TO_ZIP" -x "*.mtlib" -x "*/.git/*"
+zip -r "$LIBRARY_NAME" "your-library-name" -x "*.mtlib" -x "*/.git/*"
 if [ $? -eq 0 ]; then
   echo ".mtlib file created successfully: $LIBRARY_NAME"
 else
