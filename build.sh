@@ -24,9 +24,9 @@ LIBRARY_NAME="travellermg2_${VERSION}.mtlib"
 echo "Cleaning up old .mtlib files..."
 find "$BASE_DIR" -name "*.mtlib" -type f -delete
 
-# Create the .mtlib file
+# Create the .mtlib file, including all subdirectories under "library/"
 echo "Creating .mtlib file..."
-zip -r "$LIBRARY_NAME" . -x "*.git*" "*.mtlib" -i "library.json" "library/*" "property/*"
+zip -r "$LIBRARY_NAME" . -x "*/.git/*" "*.mtlib" -i "library.json" "library/**" "property/**" "tokens/**"
 
 if [ $? -eq 0 ]; then
   echo ".mtlib file created successfully: $LIBRARY_NAME"

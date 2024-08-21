@@ -11,6 +11,9 @@
 - **Map Integration:** Tools to help integrate Traveller star maps, planetary systems, and other campaign elements into your MapTool sessions.
 - **Consistency Across Maps:** Ensures character tokens and campaign data remain consistent when switching between different maps in your campaign.
 
+## Images
+All images where created using ChatGPT4O, as such they are copyright free, do with them as you wish.
+
 ---
 
 ## Installation Instructions
